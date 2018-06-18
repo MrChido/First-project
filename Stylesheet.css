@@ -124,7 +124,7 @@
 		font-size: 1em;
 		font-weight: normal;
 		line-height: .75em;
-		padding-left: 2em;
+		padding-left: 8em;
 		padding-right: 2em;
 		}
 
@@ -146,14 +146,13 @@
 	**********************/
 
 	#gallery {
-		margin: 20em;
-		padding: 10em;
+
 		list-style: none;
 	}
 
 	#gallery li {
 		float: left;
-		width: 75%;
+		width: 85%;
 		margin: 2.5%;
 		background-color: #66CDAA;
 	}
